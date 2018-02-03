@@ -41,12 +41,14 @@ M请求
     <name>Nexus aliyun</name>
     <url>http://maven.aliyun.com/nexus/content/groups/public</url>
 </mirror>
+```
 
 2. Netty的依赖
 ```
- <dependency>   
+<dependency>   
         <groupId>io.netty</groupId>
         <artifactId>netty-all</artifactId>
         <version>5.0.0.Alpha1</version>
-    </dependency>
+</dependency>
+```
     
